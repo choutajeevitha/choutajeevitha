@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jeevitha Chouta
+- 👋 Hi, I’m Jeevitha Chouta. This is my profile https://choutajeevitha.github.io/JeevithaChouta_Portfolio/
+-
 - 👀 I’m interested in Data Science, Machine Learning and Big Data Technologies
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Applying Machine Learning to Finance Market
